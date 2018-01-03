@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         vf = findViewById(R.id.vf);
 
         vf.startFlipping();
+
+
     }
 }
